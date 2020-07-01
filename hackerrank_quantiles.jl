@@ -1,8 +1,8 @@
-#=
-HackerRank problem - 10 Days of Statistics: Day 1: Quantiles
+#= 
+HackerRank problem - 10 Days of Statistics: Day 1: Quartiles
 https://www.hackerrank.com/challenges/s10-quartiles/problem
 
-Calculate quantiles from user inputs.
+Calculate quartiles from user inputs.
 
 Date: 2020-06-26
 
